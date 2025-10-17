@@ -23,6 +23,7 @@ If you need to re-run any of the scripts, I have used the following software:
 - `taxonium` for tree visualisation (https://taxonium.org/)
 - See `pixi.toml` for a complete list of python dependencies
 
+See `pipeline.ipynb` for the commands and scripts used to process the data.
 
 ## Licence and attribution
 
